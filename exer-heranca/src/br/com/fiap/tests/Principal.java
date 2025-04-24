@@ -11,7 +11,7 @@ public class Principal {
         cachorro.latir();
 
         Gato gato = new Gato("Lua");
-
+//
         gato.beber();
         gato.miar();
 

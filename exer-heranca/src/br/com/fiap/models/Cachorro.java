@@ -13,3 +13,4 @@ public class Cachorro extends Animais {
         System.out.printf("%s lambeu", getNome());
     }
 }
+//
